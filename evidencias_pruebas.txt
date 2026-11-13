@@ -1,0 +1,16 @@
+[OK] P1 carga doble sin duplicados (3 noticias)
+[OK] P2 filtro Universidad pública -> ['UNMSM']
+[OK] P3 búsqueda PUCP -> 1 fila
+[OK] P4 término inexistente (lógica) 
+[OK] App inicia sin excepciones []
+[OK] App muestra 3 noticias, 3 instituciones, 3 categorías al iniciar {'Noticias': '3', 'Instituciones': '3', 'Categorías': '3', 'Verificadas': '0', 'Alertas detectadas': '2'}
+[OK] P4 término inexistente (pantalla) {'Noticias': '0', 'Instituciones': '0'}
+[OK] P5 exportación CSV (1 fila, 14 columnas)
+[OK] P6 agregar noticia 
+[OK] Rechaza URL duplicada, fecha y URL inválidas 
+[OK] Filtro por rango de fechas -> ['Institución de prueba', 'PRONABEC', 'UNMSM']
+[OK] Alertas por palabra clave -> 2 alertas
+[OK] Resumen IA: borrador pendiente y aprobación humana registrada 
+[OK] La BD rechaza estados de verificación no válidos 
+[OK] App con 4 noticias sin errores 
+Resumen: 15/15 pruebas aprobadas
